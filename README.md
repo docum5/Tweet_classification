@@ -1,5 +1,9 @@
 # Tweet_classification
 
+<p align="center">
+  <img src="http://travelplanner.co.in/images/hotel/hotel-main.jpg" />
+</p>
+
 ## Table of Content
   * [The Problem](#the-problem)
   * [Goal](#goal)
