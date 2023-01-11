@@ -1,7 +1,7 @@
 # Tweet_classification
 
 <p align="center">
-  <img src="http://travelplanner.co.in/images/hotel/hotel-main.jpg" />
+  <img src="https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflowtweet.png?raw=true" />
 </p>
 
 ## Table of Content
@@ -39,6 +39,9 @@ Educate: maintain and provide training (teaching, guidance, leadership) regardin
 In the context of news, education is an activity that encourages the addition of knowledge and changes in attitudes, behaviour and skills of a person/group in a reasonable manner.
 
 ## Dataset
+<p align="center">
+  <img src="https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2012.21.03.png?raw=true" />
+</p>
 
 
 ## Overview
@@ -51,13 +54,29 @@ Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-
 [![](https://github.com/docum5/Flight-Price-Prediction/blob/main/demo22.PNG?raw=true)](https://flight-price-predict-api.herokuapp.com/predict)
 
 ## Workflow
+Make a Custom function to modify the slang words          | Normalize the slang words| Cleaning the data 
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflow1.png?raw=true)   | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflow2.png?raw=true) | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflow3.png?raw=true)
+
+Apply Language Detector           | Filter just the Indonesian tweets  
+:-------------------------:|:-------------------------:
+![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflow4.png?raw=true)   | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflow5.png?raw=true) 
 
 
 ## Model_and_architecture
- 
+**IndoBERT Large Model (phase1 - uncased)-indobenchmark/indobert-large-p1**
+
+<p align="center">
+  <img src="https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/model.png?raw=true" />
+</p>
+
+
 
 ## Evaluation_metrics
 
+Evaluation Model on Data Testing         | Evaluation Model on Data Eval | Evaluation Matrics
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/eval1tweet.png?raw=true)   | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/eval2twitter.png?raw=true) | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/eval3tweet.png?raw=true) 
 
 ## Conclusions
 
