@@ -49,7 +49,6 @@ Real Data          |  Input
 
 
 
-
 ## Overview
 I deploy the model to the API using Fast API.
 
