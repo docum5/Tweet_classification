@@ -52,6 +52,10 @@ Homepage          | Get the data by id| Predict  | Search by Content/Category
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.07.png?raw=true)   | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.33.png?raw=true) | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.20.16.png?raw=true)| ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.53.png?raw=true) 
 
+<p align="center">
+  <img src="https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-13%20at%2010.53.44.png?raw=true" />
+</p>
+
 
 
 ## Workflow
@@ -62,6 +66,7 @@ Make a Custom function to modify the slang words          | Normalize the slang 
 Apply Language Detector           | Filter just the Indonesian tweets  
 :-------------------------:|:-------------------------:
 ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflow4.png?raw=true)   | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/workflow5.png?raw=true) 
+
 
 
 ## Model_and_architecture
