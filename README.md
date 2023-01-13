@@ -47,11 +47,12 @@ In the context of news, education is an activity that encourages the addition of
 ## Overview
 I deploy the model to the API using Fast API.
 
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-predict-api.herokuapp.com/predict)
 
-[![](https://github.com/docum5/Flight-Price-Prediction/blob/main/DEMOO.PNG?raw=true)](https://flight-price-predict-api.herokuapp.com/predict)
+Homepage          | Get the data by id| Predict  | Search by Content/Category
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.07.png?raw=true)   | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.33.png?raw=true) | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.20.16.png?raw=true)| ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.53.png?raw=true) 
 
-[![](https://github.com/docum5/Flight-Price-Prediction/blob/main/demo22.PNG?raw=true)](https://flight-price-predict-api.herokuapp.com/predict)
+
 
 ## Workflow
 Make a Custom function to modify the slang words          | Normalize the slang words| Cleaning the data 
