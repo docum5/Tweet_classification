@@ -43,6 +43,12 @@ In the context of news, education is an activity that encourages the addition of
   <img src="https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2012.21.03.png?raw=true" />
 </p>
 
+Real Data          |  Input 
+:-------------------------:|:-------------------------:
+![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/datatweet1.png?raw=true)   | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/datatweet2.png?raw=true) 
+
+
+
 
 ## Overview
 I deploy the model to the API using Fast API.
@@ -52,9 +58,9 @@ Homepage          | Get the data by id| Predict  | Search by Content/Category
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.07.png?raw=true)   | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.33.png?raw=true) | ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.20.16.png?raw=true)| ![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-11%20at%2017.19.53.png?raw=true) 
 
-<p align="center">
-  <img src="https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-13%20at%2010.53.44.png?raw=true" />
-</p>
+**Demo Model**         
+:-------------------------:
+![](https://github.com/docum5/Tweet_classification/blob/main/portfojan2023/Screenshot%202023-01-13%20at%2010.53.44.png?raw=true) 
 
 
 
